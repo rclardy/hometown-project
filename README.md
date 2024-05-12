@@ -1,5 +1,6 @@
 # Hometown-Project
-This is a solo project from the 'Frontend Career Path' provided by Scrimba. There info will be posted below.
+
+This is a solo project from the 'Frontend Career Path' provided by Scrimba. Their info will be posted below.
 
 ## About Scrimba
 
@@ -12,6 +13,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
 # hometown-project
 
 Quick start:
@@ -19,4 +21,4 @@ Quick start:
 ```
 $ npm install
 $ npm start
-````
+```
